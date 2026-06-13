@@ -166,19 +166,19 @@ Identify locations and time periods with high cancellation rates to improve oper
 
 ### Vehicle Analysis Dashboard
 
-(Add Screenshot)
+(https://github.com/aanchal-kumari-dev/Ola-Ride-Booking-Analysis/blob/main/Dashboard%20Screenshots/2.Vehicle-Analysis.png)
 
 ### Revenue Dashboard
 
-(Add Screenshot)
+(https://github.com/aanchal-kumari-dev/Ola-Ride-Booking-Analysis/blob/main/Dashboard%20Screenshots/3.Revenue-Analysis.png)
 
 ### Cancellation Dashboard
 
-(Add Screenshot)
+(https://github.com/aanchal-kumari-dev/Ola-Ride-Booking-Analysis/blob/main/Dashboard%20Screenshots/4.Cancellation-Analysis.png)
 
 ### Ratings Dashboard
 
-(Add Screenshot)
+(https://github.com/aanchal-kumari-dev/Ola-Ride-Booking-Analysis/blob/main/Dashboard%20Screenshots/5.Ratings-Analysis.png)
 
 ---
 
